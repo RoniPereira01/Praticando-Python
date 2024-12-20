@@ -1,0 +1,10 @@
+INFO:root:Olá
+CRITICAL:root:Erro grave
+ERROR:root:Ola
+DEBUG:root:Erro grave
+WARNING:root:Erro grave
+2024-12-10 22:58:03,061 Olá
+2024-12-10 22:58:03,061 Erro grave
+2024-12-10 22:58:03,061 Ola
+2024-12-10 22:58:03,061 Erro grave
+2024-12-10 22:58:03,061 Erro grave
