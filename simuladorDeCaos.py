@@ -72,7 +72,7 @@ for k in range(10):
 
 
 
-import seaborn as sns
+import seaborn as sns # type: ignore
 sns.displot(list_chaos) # type: ignore
 
 academia.porta_halteres()
